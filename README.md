@@ -1,4 +1,4 @@
-    Before u think that this is legit project. This was one of the projects I had worked on during and month long internship. This is my first time having a hands on experience with a datascience project and also a hands on experience with creating neural networks which I could'nt make head or tails of before this. 
+   Before u think that this is legit project. This was one of the projects I had worked on during and month long internship. This is my first time having a hands on experience with a datascience project and also a hands on experience with creating neural networks which I could'nt make head or tails of before this. 
 
 # Crop-Yield-Prediction
 
