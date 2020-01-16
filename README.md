@@ -23,6 +23,8 @@ I spilt train and test as 70/30.
   This graph shows us the performance of the various methods I used to predict the yield of the crops.
 <img src="Conclusions/performance_metrics.png" alt="alt text" width="500" height="300">
 </p>
+<p>The lower the score the better.
+</p>
 <p>
   These graphs shows us the training and testing error rates (Mean absolute error and Mean squared error) of the neural network over 50 epochs.
 </p>
