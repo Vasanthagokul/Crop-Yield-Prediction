@@ -19,4 +19,16 @@ I spilt train and test as 70/30.
   This is my first time working with neural networks so I designed a very simple neural network which 1 input and 1 output layer and 5 hidden layers.(all of them were dense layers)
 	
 #### Conclusions:
- 
+<p>
+  This graph shows us the performance of the various methods I used to predict the yield of the crops.
+<img src="Conclusions/performance_metrics.png" alt="alt text" width="500" height="300">
+</p>
+<p>The lower the score the better.
+</p>
+<p>
+  These graphs shows us the training and testing error rates (Mean absolute error and Mean squared error) of the neural network over 50 epochs.
+</p>
+<p>
+<img src="Conclusions/MAE_dataset2.png" alt="alt text" width="300" height="200">
+<img src="Conclusions/MSE_Dataset2.png" alt="alt text" width="300" height="200">
+</p>
