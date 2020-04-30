@@ -7,7 +7,7 @@
   
 #### PreProcessing:
   I preprocessed the dataset by one hot encoding all the categorical data. Substituting the mean in records for missing data. 
-								-There re 3 columns in the second dataset that are not needed as they increase the error rate of the models.
+								-There're 3 columns in the second dataset that are not needed as they increase the error rate of the models.
 								-The columns are 'State', 'County' and 'precipTypeIsOther'
 								-I did not know how to preprocess the date column so I decided to leave it out.(This could also be included in future)
 I spilt train and test as 70/30.
