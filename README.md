@@ -11,10 +11,10 @@
 I spilt train and test as 70/30.
 
 #### Algorithms:
-  I used random forest, polynomial support vector machine and also XGB regression which I think is a variation of random forest regression.
+  I used random forest, polynomial support vector machine and also XGB regression.
 	
 #### Neural Network:
-  This is my first time working with neural networks so I designed a very simple neural network which 1 input and 1 output layer and 5 hidden layers.(all of them were dense layers)
+  I designed a very simple neural network which 1 input and 1 output layer and 5 hidden layers.(all of them were dense layers) The purpose of this was to demonstrate that neural networks could be used for text based regression.
 	
 #### Conclusions:
 <p>
